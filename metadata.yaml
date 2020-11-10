@@ -1,0 +1,28 @@
+_repo: A-short-history-of-the-printing-press-and-of-the-improvements-in-printing-machinery-from-the-__63545
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hoe, Robert
+    birthdate: 1839
+    deathdate: 1909
+    gutenberg_agent_id: '37585'
+    url: http://www.gutenberg.org/2009/agents/37585
+description: ''
+gutenberg_issued: '2020-10-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63545'
+  lccn: 03008887
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'R. Hoe & Company'
+- !lcsh 'Printing -- History'
+- !lcc 'Z'
+- !lcsh 'Printing machinery and supplies'
+- GITenberg
+title: A short history of the printing press and of the improvements in printing machinery
+  from the time of Gutenberg up to the present day
+url: http://www.gutenberg.org/ebooks/63545
