@@ -1,5 +1,8 @@
 _repo: A-short-history-of-the-printing-press-and-of-the-improvements-in-printing-machinery-from-the-__63545
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 63545-h/images/cover.jpg
 creator:
   author:
     agent_name: Hoe, Robert
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '37585'
     url: http://www.gutenberg.org/2009/agents/37585
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63545#A-short-history-of-the-printing-press-and-of-the-improvements-in-printing-machinery-from-the-_
 gutenberg_issued: '2020-10-25'
 gutenberg_type: Text
 identifiers:
